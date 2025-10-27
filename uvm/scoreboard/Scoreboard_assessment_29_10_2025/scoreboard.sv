@@ -6,7 +6,7 @@ Date:   	29th Oct 2025
 Version:	1.0
 Description: Concept of scoreboard writing in UVM 
 ***************************************************************************/
-//write scoreboard check for given scinario.
+//write scoreboard check for given scinario.fro below temaplate can make modification as required this the genric scoreboard structure to follow .
 
 class my_scoreboard extends uvm_scoreboard;
 
